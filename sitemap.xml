@@ -96,4 +96,52 @@
       <image:loc>http://topfiz.com/images/topfiz%20name%20badge.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://topfiz.com/top-std-testing-services.html</loc>
+    <lastmod>2017-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://topfiz.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/gplus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/thumbs-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/v.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20119x112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pyh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/protectamerica@2x%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/vivint_comparison.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/guardian_dt_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/untitled%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/topfiz%20name%20badge.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/std-test-express-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/stdcheck-logo.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
