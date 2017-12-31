@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1514609301273">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1514689809736">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="184506061" ref="index"/>
     <file name="iefonts_index.css" crc="4158654239" ref="index"/>
     <file name="top-free-phone-services.css" crc="4128730559" ref="top-free-phone-services"/>
     <file name="iefonts_top-free-phone-services.css" crc="4278610564" ref="top-free-phone-services"/>
-    <file name="top-std-testing-services.css" crc="399975410" ref="top-std-testing-services"/>
-    <file name="iefonts_top-std-testing-services.css" crc="3968210769" ref="top-std-testing-services"/>
+    <file name="top-std-testing-services.css" crc="4157652799" ref="top-std-testing-services"/>
+    <file name="iefonts_top-std-testing-services.css" crc="3918449868" ref="top-std-testing-services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-free-phone-services:top-std-testing-services"/>
@@ -88,9 +88,6 @@
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
@@ -119,22 +116,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
     </file>
-    <file name="pyh.png" crc="3946533425" seo="true" ref="index:top-free-phone-services:top-std-testing-services">
+    <file name="pyh.png" crc="3946533425" seo="true" ref="index:top-free-phone-services">
       <caption webpage="index" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
     </file>
-    <file name="protectamerica@2x (1).png" crc="515512218" seo="true" ref="index:top-free-phone-services:top-std-testing-services">
+    <file name="protectamerica@2x (1).png" crc="515512218" seo="true" ref="index:top-free-phone-services">
       <caption webpage="index" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
     </file>
-    <file name="vivint_comparison.png" crc="310170743" seo="true" ref="index:top-free-phone-services:top-std-testing-services">
+    <file name="vivint_comparison.png" crc="310170743" seo="true" ref="index:top-free-phone-services">
       <caption webpage="index" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
     </file>
-    <file name="guardian_dt_logo.png" crc="358329382" seo="true" ref="index:top-free-phone-services:top-std-testing-services">
+    <file name="guardian_dt_logo.png" crc="358329382" seo="true" ref="index:top-free-phone-services">
       <caption webpage="index" alt=""/>
       <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
@@ -155,8 +152,14 @@
     <file name="stdcheck-logo.jpg" crc="11818068" seo="true" ref="top-std-testing-services">
       <caption webpage="top-std-testing-services" alt=""/>
     </file>
+    <file name="mylabbox logo.png" crc="206067386" seo="true" ref="top-std-testing-services">
+      <caption webpage="top-std-testing-services" alt=""/>
+    </file>
+    <file name="walkinlab-site-logo.png" crc="3890344485" seo="true" ref="top-std-testing-services">
+      <caption webpage="top-std-testing-services" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="425842262" seo="true" mt="1514479691126" redirect="true"/>
   <file name="top-free-phone-services.html" crc="411701868" seo="true" mt="1514480326456" redirect="true"/>
-  <file name="top-std-testing-services.html" crc="419722752" seo="true" mt="1514609196419" redirect="true"/>
+  <file name="top-std-testing-services.html" crc="3906274451" seo="true" mt="1514689773499" redirect="true"/>
 </manifest>
