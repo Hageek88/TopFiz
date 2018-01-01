@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1514689809736">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1514849750880">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="184506061" ref="index"/>
     <file name="iefonts_index.css" crc="4158654239" ref="index"/>
     <file name="top-free-phone-services.css" crc="4128730559" ref="top-free-phone-services"/>
     <file name="iefonts_top-free-phone-services.css" crc="4278610564" ref="top-free-phone-services"/>
-    <file name="top-std-testing-services.css" crc="4157652799" ref="top-std-testing-services"/>
-    <file name="iefonts_top-std-testing-services.css" crc="3918449868" ref="top-std-testing-services"/>
+    <file name="top-std-testing-services.css" crc="3793522981" ref="top-std-testing-services"/>
+    <file name="iefonts_top-std-testing-services.css" crc="282172165" ref="top-std-testing-services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-free-phone-services:top-std-testing-services"/>
@@ -158,8 +158,11 @@
     <file name="walkinlab-site-logo.png" crc="3890344485" seo="true" ref="top-std-testing-services">
       <caption webpage="top-std-testing-services" alt=""/>
     </file>
+    <file name="personalabs-logo.png" crc="447990635" seo="true" ref="top-std-testing-services">
+      <caption webpage="top-std-testing-services" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="425842262" seo="true" mt="1514479691126" redirect="true"/>
   <file name="top-free-phone-services.html" crc="411701868" seo="true" mt="1514480326456" redirect="true"/>
-  <file name="top-std-testing-services.html" crc="3906274451" seo="true" mt="1514689773499" redirect="true"/>
+  <file name="top-std-testing-services.html" crc="4147616085" seo="true" mt="1514849490986" redirect="true"/>
 </manifest>
