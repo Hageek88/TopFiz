@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://topfiz.com/index.html</loc>
-    <lastmod>2018-01-03</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-std-testing-services.html</loc>
-    <lastmod>2018-01-03</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-weighted-blankets.html</loc>
-    <lastmod>2018-01-03</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -97,6 +97,51 @@
     </image:image>
     <image:image>
       <image:loc>http://topfiz.com/images/51-j3olqrhl_sl110_.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://topfiz.com/top-5-free-phone-service-providers.html</loc>
+    <lastmod>2018-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://topfiz.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/gplus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/thumbs-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/v.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20119x112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/untitled%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/topfiz%20name%20badge.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/q-link-wireless-promo-codes-coupons.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/assurnace%20wireless%20logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/safelink%20wireless%20logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/assist-wireless-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/standup-logo.png</image:loc>
     </image:image>
   </url>
 </urlset>
