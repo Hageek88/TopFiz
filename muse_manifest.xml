@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515024651495">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515026104341">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="286665564" ref="index"/>
-    <file name="top-weighted-blankets.css" crc="4025952258" ref="top-weighted-blankets"/>
+    <file name="top-weighted-blankets.css" crc="3803534891" ref="top-weighted-blankets"/>
     <file name="iefonts_top-weighted-blankets.css" crc="3824530138" ref="top-weighted-blankets"/>
     <file name="master_a-master.css" crc="418605555" ref="index:top-weighted-blankets:top-std-testing-services"/>
     <file name="nomq_preview_master_a-master.css" crc="53579039" ref="index:top-weighted-blankets:top-std-testing-services"/>
     <file name="nomq_index.css" crc="4272812735" ref="index"/>
-    <file name="nomq_top-weighted-blankets.css" crc="276693289" ref="top-weighted-blankets"/>
-    <file name="top-std-testing-services.css" crc="3986956202" ref="top-std-testing-services"/>
+    <file name="nomq_top-weighted-blankets.css" crc="4185213604" ref="top-weighted-blankets"/>
+    <file name="top-std-testing-services.css" crc="69896175" ref="top-std-testing-services"/>
     <file name="nomq_top-std-testing-services.css" crc="325383917" ref="top-std-testing-services"/>
     <file name="iefonts_top-std-testing-services.css" crc="3824530138" ref="top-std-testing-services"/>
   </folder>
@@ -29,77 +29,77 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3810355843" ref="index"/>
-    <file name="bubbles-934055_1280.jpg" crc="243480117" ref="index:top-weighted-blankets:top-std-testing-services">
+    <file name="bubbles-934055_1280.jpg" crc="243480117" ref="index:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="facebook.png" crc="4040759249" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="twitter.png" crc="466046765" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="gplus.png" crc="4061286632" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="thumbs-up.svg" crc="3985798429" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="thumbs up_poster_.png" crc="4200108095" ref="top-std-testing-services"/>
     <file name="v.png" crc="163216281" seo="true" ref="top-weighted-blankets:top-std-testing-services">
@@ -163,6 +163,66 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
@@ -241,107 +301,43 @@
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="pasted image 119x112.jpg" crc="4097486755" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="untitled (1).png" crc="4200559931" seo="true" ref="top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="topfiz name badge.png" crc="6301127" seo="true" ref="index:top-weighted-blankets:top-std-testing-services">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-weighted-blankets" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
     </file>
     <file name="std-test-express-logo.jpg" crc="340549281" seo="true" ref="top-std-testing-services">
       <caption webpage="index" alt=""/>
@@ -425,7 +421,7 @@
       <caption webpage="top-weighted-blankets" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="241625458" seo="true" mt="1515024594887" redirect="true"/>
-  <file name="top-weighted-blankets.html" crc="469004643" seo="true" mt="1515018506735" redirect="true"/>
-  <file name="top-std-testing-services.html" crc="4066708597" seo="true" mt="1515023967357" redirect="true"/>
+  <file name="index.html" crc="4036670177" seo="true" mt="1515025943959" redirect="true"/>
+  <file name="top-weighted-blankets.html" crc="4011933768" seo="true" mt="1515025966623" redirect="true"/>
+  <file name="top-std-testing-services.html" crc="3856388955" seo="true" mt="1515025943959" redirect="true"/>
 </manifest>
