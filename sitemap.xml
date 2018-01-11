@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://topfiz.com/index.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://topfiz.com/images/topfiz%20name%20badge.png</image:loc>
+      <image:loc>http://topfiz.com/images/logo%20bubbles.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/orange_ribbon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/check_icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/clover_icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/star_icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/soda%20big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/ribbon_left_end.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/ribbon_right_end.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://topfiz.com/top-5-std-testing-services.html</loc>
-    <lastmod>2018-01-05</lastmod>
+    <lastmod>2018-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +77,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-weighted-blankets.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +122,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-free-phone-service-providers.html</loc>
-    <lastmod>2018-01-04</lastmod>
+    <lastmod>2018-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
