@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515707972500">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515716098330">
   <folder name="css">
     <file name="site_global.css" crc="3916030915"/>
-    <file name="index.css" crc="4124928954" ref="index"/>
+    <file name="index.css" crc="3760051733" ref="index"/>
     <file name="master_a-master.css" crc="261089492" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers"/>
     <file name="nomq_preview_master_a-master.css" crc="53579039" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers"/>
-    <file name="nomq_index.css" crc="134271214" ref="index"/>
+    <file name="nomq_index.css" crc="3775709027" ref="index"/>
     <file name="top-5-std-testing-services.css" crc="198135005" ref="top-5-std-testing-services"/>
     <file name="nomq_top-5-std-testing-services.css" crc="4268829771" ref="top-5-std-testing-services"/>
     <file name="iefonts_top-5-std-testing-services.css" crc="245674146" ref="top-5-std-testing-services"/>
@@ -863,7 +863,7 @@
     <file name="ribbon_base-u137604.png" crc="143578863" ref="index"/>
     <file name="ribbon_base-u137605.png" crc="119053191" ref="index"/>
   </folder>
-  <file name="index.html" crc="3910026015" seo="true" mt="1515707858344" redirect="true"/>
+  <file name="index.html" crc="18650354" seo="true" mt="1515716036452" redirect="true"/>
   <file name="top-5-std-testing-services.html" crc="4205726458" seo="true" mt="1515707105872" redirect="true"/>
   <file name="top-5-weighted-blankets.html" crc="4040930202" seo="true" mt="1515707131567" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="482595252" seo="true" mt="1515707107200" redirect="true"/>
