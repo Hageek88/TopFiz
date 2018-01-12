@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515770917122">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1515773253367">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
-    <file name="index.css" crc="104086632" ref="index"/>
+    <file name="index.css" crc="3905934390" ref="index"/>
     <file name="master_a-master.css" crc="295612975" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers"/>
     <file name="nomq_preview_master_a-master.css" crc="4025773374" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers"/>
-    <file name="nomq_index.css" crc="3896464846" ref="index"/>
+    <file name="nomq_index.css" crc="3934410461" ref="index"/>
     <file name="top-5-std-testing-services.css" crc="412396699" ref="top-5-std-testing-services"/>
     <file name="nomq_top-5-std-testing-services.css" crc="366911807" ref="top-5-std-testing-services"/>
     <file name="iefonts_top-5-std-testing-services.css" crc="247609519" ref="top-5-std-testing-services"/>
@@ -14,11 +14,11 @@
     <file name="top-5-free-phone-service-providers.css" crc="3888649772" ref="top-5-free-phone-service-providers"/>
     <file name="nomq_top-5-free-phone-service-providers.css" crc="3977804290" ref="top-5-free-phone-service-providers"/>
     <file name="iefonts_top-5-free-phone-service-providers.css" crc="247609519" ref="top-5-free-phone-service-providers"/>
-    <file name="master_b-master.css" crc="4091428500" ref="index:top-franchise-matching-services"/>
-    <file name="nomq_preview_master_b-master.css" crc="3968018262" ref="index:top-franchise-matching-services"/>
+    <file name="master_b-master.css" crc="502593916" ref="index:top-franchise-matching-services"/>
+    <file name="nomq_preview_master_b-master.css" crc="127022311" ref="index:top-franchise-matching-services"/>
     <file name="iefonts_index.css" crc="247609519" ref="index"/>
-    <file name="top-franchise-matching-services.css" crc="4114632846" ref="top-franchise-matching-services"/>
-    <file name="nomq_top-franchise-matching-services.css" crc="3894688010" ref="top-franchise-matching-services"/>
+    <file name="top-franchise-matching-services.css" crc="216701706" ref="top-franchise-matching-services"/>
+    <file name="nomq_top-franchise-matching-services.css" crc="347420409" ref="top-franchise-matching-services"/>
     <file name="iefonts_top-franchise-matching-services.css" crc="247609519" ref="top-franchise-matching-services"/>
   </folder>
   <folder name="scripts">
@@ -893,9 +893,9 @@
     <file name="ribbon_base-u195524.png" crc="143578863" ref="top-franchise-matching-services"/>
     <file name="ribbon_base-u195525.png" crc="119053191" ref="top-franchise-matching-services"/>
   </folder>
-  <file name="index.html" crc="304227575" seo="true" mt="1515770414186" redirect="true"/>
+  <file name="index.html" crc="264576266" seo="true" mt="1515773045845" redirect="true"/>
   <file name="top-5-std-testing-services.html" crc="318523030" seo="true" mt="1515726677185" redirect="true"/>
   <file name="top-5-weighted-blankets.html" crc="4075258914" seo="true" mt="1515721336442" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="4011661475" seo="true" mt="1515721336442" redirect="true"/>
-  <file name="top-franchise-matching-services.html" crc="4277759618" seo="true" mt="1515770414198" redirect="true"/>
+  <file name="top-franchise-matching-services.html" crc="4081132689" seo="true" mt="1515773118600" redirect="true"/>
 </manifest>
