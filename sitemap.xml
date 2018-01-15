@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-std-testing-services.html</loc>
-    <lastmod>2018-01-11</lastmod>
+    <lastmod>2018-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-weighted-blankets.html</loc>
-    <lastmod>2018-01-11</lastmod>
+    <lastmod>2018-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>http://topfiz.com/top-5-free-phone-service-providers.html</loc>
-    <lastmod>2018-01-11</lastmod>
+    <lastmod>2018-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,6 +181,60 @@
     </image:image>
     <image:image>
       <image:loc>http://topfiz.com/images/ribbon_right_end.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://topfiz.com/top-5-flat-earth-books.html</loc>
+    <lastmod>2018-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://topfiz.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/gplus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/thumbs-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/v.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20119x112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/untitled%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/topfiz%20name%20badge.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20333x499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20218x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20218x2182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20218x2183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20218x2184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20333x49988x132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20333x49945x68.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://topfiz.com/images/pasted%20image%20333x49939x58.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
