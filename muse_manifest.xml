@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1516325922918">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1516334702211">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="3949107240" ref="index"/>
@@ -912,6 +912,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-debt-relief-services" alt=""/>
     </file>
     <file name="soda big.png" crc="3764957057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -955,6 +956,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
     </file>
@@ -1008,5 +1012,5 @@
   <file name="top-5-weighted-blankets.html" crc="517285117" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="3893297808" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-flat-earth-books.html" crc="522194576" seo="true" mt="1516229552600" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="301115969" seo="true" mt="1516325846876" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="4267594399" seo="true" mt="1516334611546" redirect="true"/>
 </manifest>
