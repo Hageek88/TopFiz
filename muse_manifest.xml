@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1516325128439">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1516325922918">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
-    <file name="index.css" crc="319785521" ref="index"/>
+    <file name="index.css" crc="3949107240" ref="index"/>
     <file name="master_a-master.css" crc="32034337" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books"/>
     <file name="nomq_preview_master_a-master.css" crc="84894575" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books"/>
-    <file name="nomq_index.css" crc="3948665810" ref="index"/>
+    <file name="nomq_index.css" crc="323377032" ref="index"/>
     <file name="top-5-std-testing-services.css" crc="528693912" ref="top-5-std-testing-services"/>
     <file name="nomq_top-5-std-testing-services.css" crc="477084633" ref="top-5-std-testing-services"/>
     <file name="iefonts_top-5-std-testing-services.css" crc="247609519" ref="top-5-std-testing-services"/>
@@ -19,8 +19,8 @@
     <file name="top-5-flat-earth-books.css" crc="186692327" ref="top-5-flat-earth-books"/>
     <file name="nomq_top-5-flat-earth-books.css" crc="466690153" ref="top-5-flat-earth-books"/>
     <file name="iefonts_top-5-flat-earth-books.css" crc="247609519" ref="top-5-flat-earth-books"/>
-    <file name="top-debt-relief-services.css" crc="3917353156" ref="top-debt-relief-services"/>
-    <file name="nomq_top-debt-relief-services.css" crc="4137754156" ref="top-debt-relief-services"/>
+    <file name="top-debt-relief-services.css" crc="503989137" ref="top-debt-relief-services"/>
+    <file name="nomq_top-debt-relief-services.css" crc="4475548" ref="top-debt-relief-services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services"/>
@@ -1003,10 +1003,10 @@
     <file name="ribbon_base-u219034.png" crc="143578863" ref="top-debt-relief-services"/>
     <file name="ribbon_base-u219035.png" crc="119053191" ref="top-debt-relief-services"/>
   </folder>
-  <file name="index.html" crc="361855727" seo="true" mt="1516324690398" redirect="true"/>
+  <file name="index.html" crc="4093744445" seo="true" mt="1516325846876" redirect="true"/>
   <file name="top-5-std-testing-services.html" crc="484572730" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-weighted-blankets.html" crc="517285117" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="3893297808" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-flat-earth-books.html" crc="522194576" seo="true" mt="1516229552600" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="468192300" seo="true" mt="1516324690398" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="301115969" seo="true" mt="1516325846876" redirect="true"/>
 </manifest>
