@@ -237,22 +237,4 @@
       <image:loc>http://topfiz.com/images/ribbon_right_end.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://topfiz.com/top-franchise-matching-services.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://topfiz.com/images/logo%20bubbles.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://topfiz.com/images/orange_ribbon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://topfiz.com/images/ribbon_left_end.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://topfiz.com/images/ribbon_right_end.png</image:loc>
-    </image:image>
-  </url>
 </urlset>
