@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517253417574">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517257090590">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="3949107240" ref="index"/>
@@ -19,8 +19,8 @@
     <file name="top-5-flat-earth-books.css" crc="186692327" ref="top-5-flat-earth-books"/>
     <file name="nomq_top-5-flat-earth-books.css" crc="466690153" ref="top-5-flat-earth-books"/>
     <file name="iefonts_top-5-flat-earth-books.css" crc="247609519" ref="top-5-flat-earth-books"/>
-    <file name="top-debt-relief-services.css" crc="91738988" ref="top-debt-relief-services"/>
-    <file name="nomq_top-debt-relief-services.css" crc="357817991" ref="top-debt-relief-services"/>
+    <file name="top-debt-relief-services.css" crc="279597271" ref="top-debt-relief-services"/>
+    <file name="nomq_top-debt-relief-services.css" crc="411678806" ref="top-debt-relief-services"/>
     <file name="top-paid-survey-services.css" crc="4181371650" ref="top-paid-survey-services"/>
     <file name="nomq_top-paid-survey-services.css" crc="3800712113" ref="top-paid-survey-services"/>
     <file name="iefonts_top-paid-survey-services.css" crc="247609519" ref="top-paid-survey-services"/>
@@ -1111,6 +1111,6 @@
   <file name="top-5-weighted-blankets.html" crc="517285117" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="3893297808" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-flat-earth-books.html" crc="522194576" seo="true" mt="1516229552600" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="3870644568" seo="true" mt="1516824964978" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="341119182" seo="true" mt="1517257043346" redirect="true"/>
   <file name="top-paid-survey-services.html" crc="3760005928" seo="true" mt="1517253379454" redirect="true"/>
 </manifest>
