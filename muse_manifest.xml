@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517257369047">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517341038741">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="3949107240" ref="index"/>
@@ -14,32 +14,34 @@
     <file name="top-5-free-phone-service-providers.css" crc="4068167412" ref="top-5-free-phone-service-providers"/>
     <file name="nomq_top-5-free-phone-service-providers.css" crc="440222866" ref="top-5-free-phone-service-providers"/>
     <file name="iefonts_top-5-free-phone-service-providers.css" crc="247609519" ref="top-5-free-phone-service-providers"/>
-    <file name="master_b-master.css" crc="4112875561" ref="index:top-debt-relief-services"/>
-    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="index:top-debt-relief-services"/>
+    <file name="master_b-master.css" crc="4112875561" ref="index:top-debt-relief-services:top-local-storage-service"/>
+    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="index:top-debt-relief-services:top-local-storage-service"/>
     <file name="top-5-flat-earth-books.css" crc="186692327" ref="top-5-flat-earth-books"/>
     <file name="nomq_top-5-flat-earth-books.css" crc="466690153" ref="top-5-flat-earth-books"/>
     <file name="iefonts_top-5-flat-earth-books.css" crc="247609519" ref="top-5-flat-earth-books"/>
-    <file name="top-debt-relief-services.css" crc="279597271" ref="top-debt-relief-services"/>
+    <file name="top-debt-relief-services.css" crc="219454246" ref="top-debt-relief-services"/>
     <file name="nomq_top-debt-relief-services.css" crc="411678806" ref="top-debt-relief-services"/>
     <file name="top-paid-survey-services.css" crc="4181371650" ref="top-paid-survey-services"/>
     <file name="nomq_top-paid-survey-services.css" crc="3800712113" ref="top-paid-survey-services"/>
     <file name="iefonts_top-paid-survey-services.css" crc="247609519" ref="top-paid-survey-services"/>
+    <file name="top-local-storage-service.css" crc="512130798" ref="top-local-storage-service"/>
+    <file name="nomq_top-local-storage-service.css" crc="494076617" ref="top-local-storage-service"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="museutils.js" crc="3803043152" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="whatinput.js" crc="86476730" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="webpro.js" crc="242022427" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services"/>
-    <file name="touchswipe.js" crc="4066113679" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="html5shiv.js" crc="4241844378" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="require.js" crc="4157109226" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="top-debt-relief-services"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="museutils.js" crc="3803043152" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="whatinput.js" crc="86476730" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="webpro.js" crc="242022427" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="touchswipe.js" crc="4066113679" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="html5shiv.js" crc="4241844378" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="require.js" crc="4157109226" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="top-debt-relief-services:top-local-storage-service"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3810355843" ref="top-5-std-testing-services:top-5-flat-earth-books:top-paid-survey-services"/>
@@ -869,7 +871,7 @@
       <caption webpage="top-5-std-testing-services" alt=""/>
       <caption webpage="top-5-std-testing-services" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services"/>
+    <file name="blank.gif" crc="4208392903" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service"/>
     <file name="512-xkihawl_sl110_.jpg" crc="4072470699" seo="true" ref="top-5-weighted-blankets">
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
@@ -950,7 +952,7 @@
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
     </file>
-    <file name="logo bubbles.png" crc="315004800" seo="true" ref="index:top-debt-relief-services">
+    <file name="logo bubbles.png" crc="315004800" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -960,13 +962,18 @@
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
-    <file name="orange_ribbon.png" crc="180427560" seo="true" ref="index:top-debt-relief-services">
+    <file name="orange_ribbon.png" crc="180427560" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -976,6 +983,11 @@
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
@@ -1000,7 +1012,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slider_bg.jpg" crc="4036645644" ref="index:top-debt-relief-services">
+    <file name="slider_bg.jpg" crc="4036645644" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1012,7 +1024,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ribbon_left_end.png" crc="4198629121" seo="true" ref="index:top-debt-relief-services">
+    <file name="ribbon_left_end.png" crc="4198629121" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1022,13 +1034,18 @@
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
-    <file name="ribbon_right_end.png" crc="98104906" seo="true" ref="index:top-debt-relief-services">
+    <file name="ribbon_right_end.png" crc="98104906" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1038,6 +1055,11 @@
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
+      <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-franchise-matching-services" alt=""/>
@@ -1105,12 +1127,18 @@
     <file name="ribbon_base-u219033.png" crc="4116189063" ref="top-debt-relief-services"/>
     <file name="ribbon_base-u219034.png" crc="143578863" ref="top-debt-relief-services"/>
     <file name="ribbon_base-u219035.png" crc="119053191" ref="top-debt-relief-services"/>
+    <file name="ribbon_base-u24550.png" crc="3818821971" ref="top-local-storage-service"/>
+    <file name="ribbon_base-u245502.png" crc="3818821971" ref="top-local-storage-service"/>
+    <file name="ribbon_base-u245503.png" crc="4116189063" ref="top-local-storage-service"/>
+    <file name="ribbon_base-u245504.png" crc="143578863" ref="top-local-storage-service"/>
+    <file name="ribbon_base-u245505.png" crc="119053191" ref="top-local-storage-service"/>
   </folder>
   <file name="index.html" crc="4093744445" seo="true" mt="1516325846876" redirect="true"/>
   <file name="top-5-std-testing-services.html" crc="484572730" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-weighted-blankets.html" crc="517285117" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="3893297808" seo="true" mt="1516042584839" redirect="true"/>
   <file name="top-5-flat-earth-books.html" crc="522194576" seo="true" mt="1516229552600" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="341119182" seo="true" mt="1517257043346" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="151061749" seo="true" mt="1517340821543" redirect="true"/>
   <file name="top-paid-survey-services.html" crc="3760005928" seo="true" mt="1517253379454" redirect="true"/>
+  <file name="top-local-storage-service.html" crc="4103217976" seo="true" mt="1517340967310" redirect="true"/>
 </manifest>
