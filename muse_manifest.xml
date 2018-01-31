@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517408909966">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517441022855">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="4051386268" ref="index"/>
@@ -19,8 +19,8 @@
     <file name="top-5-flat-earth-books.css" crc="15015765" ref="top-5-flat-earth-books"/>
     <file name="nomq_top-5-flat-earth-books.css" crc="4241307856" ref="top-5-flat-earth-books"/>
     <file name="iefonts_top-5-flat-earth-books.css" crc="247609519" ref="top-5-flat-earth-books"/>
-    <file name="top-debt-relief-services.css" crc="243757279" ref="top-debt-relief-services"/>
-    <file name="nomq_top-debt-relief-services.css" crc="501481277" ref="top-debt-relief-services"/>
+    <file name="top-debt-relief-services.css" crc="4258309655" ref="top-debt-relief-services"/>
+    <file name="nomq_top-debt-relief-services.css" crc="3791339599" ref="top-debt-relief-services"/>
     <file name="top-paid-survey-services.css" crc="4066741911" ref="top-paid-survey-services"/>
     <file name="nomq_top-paid-survey-services.css" crc="4144668815" ref="top-paid-survey-services"/>
     <file name="iefonts_top-paid-survey-services.css" crc="247609519" ref="top-paid-survey-services"/>
@@ -962,16 +962,16 @@
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
     <file name="orange_ribbon.png" crc="180427560" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
@@ -983,16 +983,16 @@
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
     <file name="check_icon.png" crc="324563750" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1034,16 +1034,16 @@
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
     <file name="ribbon_right_end.png" crc="98104906" seo="true" ref="index:top-debt-relief-services:top-local-storage-service">
       <caption webpage="index" alt=""/>
@@ -1055,16 +1055,16 @@
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
     <file name="ribbon_base-u13760.png" crc="3818821971" ref="index"/>
     <file name="footer_bg_tile.png" crc="4241454920" ref="index:top-local-storage-service:top-debt-relief-services">
@@ -1074,16 +1074,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
       <caption webpage="top-local-storage-service" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
-      <caption webpage="top-franchise-matching-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
       <caption webpage="top-debt-relief-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
+      <caption webpage="top-franchise-matching-services" alt=""/>
     </file>
     <file name="ribbon_base-u137602.png" crc="4116189063" ref="index"/>
     <file name="ribbon_base-u137603.png" crc="143578863" ref="index"/>
@@ -1140,7 +1140,7 @@
   <file name="top-5-weighted-blankets.html" crc="327535813" seo="true" mt="1517347124859" redirect="true"/>
   <file name="top-5-free-phone-service-providers.html" crc="4219507723" seo="true" mt="1517347124859" redirect="true"/>
   <file name="top-5-flat-earth-books.html" crc="95602766" seo="true" mt="1517347124859" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="34354653" seo="true" mt="1517408877834" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="3930451581" seo="true" mt="1517440929026" redirect="true"/>
   <file name="top-paid-survey-services.html" crc="324616373" seo="true" mt="1517347124859" redirect="true"/>
   <file name="top-local-storage-service.html" crc="432095139" seo="true" mt="1517366684289" redirect="true"/>
 </manifest>
