@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517505929449">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1517517181618">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="4051386268" ref="index"/>
@@ -46,415 +46,175 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3810355843" ref="top-5-std-testing-services"/>
     <file name="bubbles-934055_1280.jpg" crc="243480117" ref="top-5-std-testing-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="facebook.png" crc="4040759249" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="twitter.png" crc="466046765" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="gplus.png" crc="4061286632" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="thumbs-up.svg" crc="3985798429" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="thumbs up_poster_.png" crc="4200108095" ref="top-5-std-testing-services"/>
     <file name="v.png" crc="163216281" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -515,126 +275,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
@@ -695,6 +335,246 @@
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
@@ -713,93 +593,213 @@
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="pasted image 119x112.jpg" crc="4097486755" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="untitled (1).png" crc="4200559931" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="topfiz name badge.png" crc="6301127" seo="true" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-paid-survey-services">
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-paid-survey-services" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-weighted-blankets" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-std-testing-services" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
-      <caption webpage="top-5-flat-earth-books" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-std-testing-services" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
-      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
       <caption webpage="top-5-weighted-blankets" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-5-std-testing-services" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-weighted-blankets" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-paid-survey-services" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
+      <caption webpage="top-5-free-phone-service-providers" alt=""/>
       <caption webpage="top-free-phone-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-std-testing-services" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
+      <caption webpage="top-5-flat-earth-books" alt=""/>
     </file>
     <file name="std-test-express-logo.jpg" crc="340549281" seo="true" ref="top-5-std-testing-services">
       <caption webpage="index" alt=""/>
@@ -1067,7 +1067,7 @@
       <caption webpage="top-debt-relief-services" alt=""/>
     </file>
     <file name="ribbon_base-u13760.png" crc="3818821971" ref="index"/>
-    <file name="footer_bg_tile.png" crc="4241454920" ref="index:top-local-storage-service:top-debt-relief-services">
+    <file name="footer_bg_tile.png" crc="4241454920" ref="index:top-local-storage-service">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1135,12 +1135,12 @@
     <file name="ribbon_base-u250004.png" crc="143578863" ref="top-debt-relief-services"/>
     <file name="ribbon_base-u250005.png" crc="119053191" ref="top-debt-relief-services"/>
   </folder>
-  <file name="index.html" crc="497496170" seo="true" mt="1517366684289" redirect="true"/>
-  <file name="top-5-std-testing-services.html" crc="4168292630" seo="true" mt="1517367756544" redirect="true"/>
-  <file name="top-5-weighted-blankets.html" crc="327535813" seo="true" mt="1517347124859" redirect="true"/>
-  <file name="top-5-free-phone-service-providers.html" crc="4219507723" seo="true" mt="1517347124859" redirect="true"/>
-  <file name="top-5-flat-earth-books.html" crc="95602766" seo="true" mt="1517347124859" redirect="true"/>
-  <file name="top-debt-relief-services.html" crc="3759842313" seo="true" mt="1517505843668" redirect="true"/>
-  <file name="top-paid-survey-services.html" crc="324616373" seo="true" mt="1517347124859" redirect="true"/>
-  <file name="top-local-storage-service.html" crc="432095139" seo="true" mt="1517366684289" redirect="true"/>
+  <file name="index.html" crc="387981429" seo="true" mt="1517516961043" redirect="true"/>
+  <file name="top-5-std-testing-services.html" crc="54440883" seo="true" mt="1517516932435" redirect="true"/>
+  <file name="top-5-weighted-blankets.html" crc="141142818" seo="true" mt="1517516932435" redirect="true"/>
+  <file name="top-5-free-phone-service-providers.html" crc="201091289" seo="true" mt="1517516932435" redirect="true"/>
+  <file name="top-5-flat-earth-books.html" crc="4022339142" seo="true" mt="1517516932435" redirect="true"/>
+  <file name="top-debt-relief-services.html" crc="3940942404" seo="true" mt="1517516961043" redirect="true"/>
+  <file name="top-paid-survey-services.html" crc="352515355" seo="true" mt="1517516932435" redirect="true"/>
+  <file name="top-local-storage-service.html" crc="100633764" seo="true" mt="1517516961043" redirect="true"/>
 </manifest>
