@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1518051277425">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="topfiz.com" resolutions="1x" timestamp="1518052390127">
   <folder name="css">
     <file name="site_global.css" crc="3842586182"/>
     <file name="index.css" crc="4051386268" ref="index"/>
@@ -29,8 +29,8 @@
     <file name="top-web-hosting-services-india.css" crc="3822136393" ref="top-web-hosting-services-india"/>
     <file name="nomq_top-web-hosting-services-india.css" crc="32156282" ref="top-web-hosting-services-india"/>
     <file name="iefonts_top-web-hosting-services-india.css" crc="247609519" ref="top-web-hosting-services-india"/>
-    <file name="top-franchise-matching-services.css" crc="4147522924" ref="top-franchise-matching-services"/>
-    <file name="nomq_top-franchise-matching-services.css" crc="3885356418" ref="top-franchise-matching-services"/>
+    <file name="top-franchise-matching-services.css" crc="4250086178" ref="top-franchise-matching-services"/>
+    <file name="nomq_top-franchise-matching-services.css" crc="259483790" ref="top-franchise-matching-services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
@@ -38,10 +38,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
     <file name="museconfig.js" crc="4153641093" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
-    <file name="webpro.js" crc="242022427" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service:top-franchise-matching-services"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service:top-franchise-matching-services"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service:top-franchise-matching-services"/>
-    <file name="touchswipe.js" crc="4066113679" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service:top-franchise-matching-services"/>
+    <file name="webpro.js" crc="242022427" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
+    <file name="touchswipe.js" crc="4066113679" ref="top-5-weighted-blankets:index:top-5-flat-earth-books:top-debt-relief-services:top-local-storage-service"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
     <file name="html5shiv.js" crc="4241844378" ref="top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:index:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
     <file name="require.js" crc="4157109226" ref="index:top-5-std-testing-services:top-5-weighted-blankets:top-5-free-phone-service-providers:top-5-flat-earth-books:top-debt-relief-services:top-paid-survey-services:top-local-storage-service:top-web-hosting-services-india:top-franchise-matching-services"/>
@@ -1268,5 +1268,5 @@
   <file name="top-paid-survey-services.html" crc="352515355" seo="true" mt="1517516932435" redirect="true"/>
   <file name="top-local-storage-service.html" crc="100633764" seo="true" mt="1517516961043" redirect="true"/>
   <file name="top-web-hosting-services-india.html" crc="3868551774" seo="true" mt="1517784701263" redirect="true"/>
-  <file name="top-franchise-matching-services.html" crc="111577111" seo="true" mt="1518051196659" redirect="true"/>
+  <file name="top-franchise-matching-services.html" crc="143422947" seo="true" mt="1518052342144" redirect="true"/>
 </manifest>
